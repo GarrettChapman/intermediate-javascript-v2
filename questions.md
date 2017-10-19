@@ -26,19 +26,19 @@
  Remove entries from the array until only correct answers remain
 
  Which function(s) access the weather variable and get "rainy" (Delete wrong answers, leave correct ones)
-`var scopeArray1 = ["street", "firstFloor", "secondFloor", "neighbors", "neighborsSecondFloor"];`
+`var scopeArray1 = ["firstFloor", "secondFloor"];`
 
  Which function(s) access the weather variable and get "dry" (Delete wrong answers, leave correct ones)
-`var scopeArray2 = ["street", "firstFloor", "secondFloor", "neighbors", "neighborsSecondFloor"];`
+`var scopeArray2 = ["street", "firstFloor", "secondFloor"];`
 
  Which function(s) access the ceiling variable and get undefined (Delete wrong answers, leave correct ones)
-`var scopeArray3 = ["street", "firstFloor", "secondFloor", "neighbors", "neighborsSecondFloor"];`
+`var scopeArray3 = [ "secondFloor"];`
 
  Which functions accesss the ceiling variable and get "leaking" (Delete wrong answers, leave correct ones)
-`var scopeArray4 = ["street", "firstFloor", "secondFloor", "neighbors", "neighborsSecondFloor"];`
+`var scopeArray4 = ["neighbors", "neighborsSecondFloor"];`
 
  Which functions access the temperature variable and get 72 (Delete wrong answers, leave correct ones)
-`var scopeArray5 = ["street", "firstFloor", "secondFloor", "neighbors", "neighborsSecondFloor"];`
+`var scopeArray5 = ["secondFloor"];`
 
 
  #2  ###################
